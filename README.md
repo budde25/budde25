@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **budde25/budde25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=budde25&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/budde25)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budde25&layout=compact&exclude_repo=nsa-codebreaker,dotfiles&langs_count=5)](https://github.com/budde25)
